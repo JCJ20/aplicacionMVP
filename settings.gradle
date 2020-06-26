@@ -1,0 +1,2 @@
+rootProject.name='seQRity'
+include ':app'
